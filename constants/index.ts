@@ -83,17 +83,12 @@ export const Socials = [
     {
         name: "Linkedin",
         src: "/linkedin.svg",
-        link: "https://www.linkedin.com/in/jenin-joseph/",
+        link: "https://linkedin.com/in/karachi-thanmayi-6666263a5",
     },
     {
         name: "Github",
         src: "/github.svg",
-        link: "https://github.com/Jenin82",
-    },
-    {
-        name: "MuLearn",
-        src: "/mulearn.svg",
-        link: "https://app.mulearn.org/profile/jeninjoseph@mulearn",
+        link: "https://github.com/thanmayi-4505",
     },
 ];
 
