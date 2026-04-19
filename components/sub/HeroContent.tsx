@@ -84,7 +84,7 @@ const HeroContent = () => {
                                     className="flex flex-col gap-6 mt-6 md:text-5xl text-4xl font-bold text-white max-w-[600px] w-auto h-auto z-20"
                                 >
                                     <span>
-                                        Hi, I'm Karachi Thanmayi
+                                        Hi, I&apos;m Karachi Thanmayi
                                         <br />
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
                                             CSE (Data Science) Student
